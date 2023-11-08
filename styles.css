@@ -1,0 +1,22 @@
+#container{
+  display: flex;
+  flex-wrap: nowrap;
+}
+.box {
+  width:270px;
+height: 200px;
+  border: 2px solid black;
+  padding: 12px;
+  margin: 15px;
+  border-radius: 30px;
+  
+  }
+  p{
+    font-family: Verdana;
+    font-size: large;
+  }
+  #box2{
+color:aliceblue;
+background-image: url("image1.jpg");
+ }
+  
